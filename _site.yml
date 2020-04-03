@@ -23,6 +23,8 @@ navbar:
           href: html/Heffernan1D.html   
         - text: "Conditional EVT (multivariate)"
           href: html/HeffernanMultivariate.html  
+        - text: "R Package climex"
+          href: html/general-usage.html
         - text: "Copula R code"
           href: html/CopulainR.html 
         - text: "Regularly Varying Functions"
@@ -42,3 +44,7 @@ navbar:
   right:
     - icon: fa-home
       href: https://seoncheolpark.github.io
+output:
+  html_document:
+    highlight: textmate
+    css: styles.css
