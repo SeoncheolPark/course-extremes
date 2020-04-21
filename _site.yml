@@ -10,7 +10,7 @@ navbar:
     - text: "Lecture"
       menu:
         - text: "Univariate EVT"
-          href: html/UEVT.html
+          href: html/UEVT2.html
         - text: "Multivariate EVT"
           href: html/MEVT.html  
         - text: "Generalized Pareto R code"
@@ -36,7 +36,9 @@ navbar:
         - text: "Max-stable Process R code"
           href: html/ex_simmaxstable(old)s.html  
         - text: "Extremal Dependence"
-          href: html/ExtremeDependence.html  
+          href: html/ExtremeDependence.html 
+        - text: "Extremal Quantile Regression"
+          href: html/EXQR.html 
     - text: "Homework"
       href: hw.html
     - text: "Exam"
