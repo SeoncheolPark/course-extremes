@@ -4,3 +4,20 @@ author: "Instructor: Seoncheol Park"
 ---
 
 이 course 웹사이트는 가상의 extreme value statistics course 웹사이트입니다.
+
+## Course Schedule
+
+<!--
+| Assignment |  Points| Total|
+|:----------|--------:|-------:|
+| Weekly assignments | 6 | 72|
+| Semester Project |  | 28|
+|||100|
+-->
+
+| Week | Date | Topic|
+|-----:|:-----|:-----|
+| 1 | Wed 3 Mar | Univariate Extreme Value Modeling|
+| 2 | Wed 10 Mar | Peak-over-threshold Method|
+| 3 | Wed 17 Mar | Point Process|
+
